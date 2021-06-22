@@ -1,0 +1,4 @@
+.env
+node_modules
+client_connection_string.txt
+client
